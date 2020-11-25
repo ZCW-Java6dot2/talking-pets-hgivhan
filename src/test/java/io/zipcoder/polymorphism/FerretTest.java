@@ -1,4 +1,4 @@
-import io.zipcoder.polymorphism.Ferret;
+package io.zipcoder.polymorphism;
 import org.junit.Assert;
 import org.junit.Test;
 
